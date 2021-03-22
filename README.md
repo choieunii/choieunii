@@ -1,6 +1,6 @@
 ### HELLO WORLD
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choieunii&show_icons=true&theme=buefy&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choieunii&layout=compact&theme=vue)](https://github.com/choieunii/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choieunii&layout=compact&theme=flag-india)](https://github.com/choieunii/github-readme-stats)
 <!--
 **choieunii/choieunii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
