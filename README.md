@@ -1,5 +1,4 @@
 ### 
-<div>
 <h3 align="left">👋Hi, there</h3>
 <p>
 <a href="imej221@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:imej221@gmail.com"/></a>
@@ -29,7 +28,6 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
 </p>
  <br/>
-</div>
 <!-- <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=choieunii&show_icons=true&theme=buefy&count_private=true&hide_border=false" />
 </div>   -->
