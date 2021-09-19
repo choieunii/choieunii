@@ -30,9 +30,9 @@
 </p>
  <br/>
 </div>
-<div align="left">
+<!-- <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=choieunii&show_icons=true&theme=buefy&count_private=true&hide_border=false" />
-</div>  
+</div>   -->
 
 <!--
 **choieunii/choieunii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
